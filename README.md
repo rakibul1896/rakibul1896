@@ -6,7 +6,7 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 ## Skills and Experience
 * ⚛ React
 * 💻 HTML, CSS, JS
-* TailwinCs, Scss
+* TailwinCs, Scss, Bootstrap
 * React-Redux
 
 
