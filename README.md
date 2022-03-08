@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Rakibul
 #### I am Front end developer (React.js)
 ![I am Front end developer (React.js)](https://i.ibb.co/StXfrDb/You-heard-it-here.png)
