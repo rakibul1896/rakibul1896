@@ -7,7 +7,7 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 * ⚛ React
 * 💻 HTML, CSS, JS
 * TailwindCss, Scss, React-Bootstrap
-* React-Redux
+* Redux
 
 
 
