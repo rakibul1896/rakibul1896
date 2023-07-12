@@ -4,10 +4,10 @@
 Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">, I'm Rakibul from Bangladesh, a fornt end developer (React.js).
 
 ## Skills and Experience
-* ⚛ React
+* JavaScript, TypeScript
 * 💻 HTML, CSS, JS
-* TypeScript, Redux
-* TailwindCss, Scss, React-Bootstrap
+* ⚛ React, Nextjs, Vue, Nuxtjs
+* TailwindCss, Scss, Mui, React-Bootstrap
 
 
 
